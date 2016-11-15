@@ -150,3 +150,16 @@ int main(int argc, const char * argv[]) {
     cout<<"Min weights is: "<<res<<endl;
     return 0;
 }
+
+/*
+Test:
+0,3,1
+1,2,1
+2,3,1
+4,5,2
+1,3,3
+0,1,3
+2,5,4
+2,4,5
+3,4,6
+*/
